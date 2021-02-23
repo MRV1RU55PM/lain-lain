@@ -13,10 +13,10 @@ $ pkg install python
 $ pkg install python2
 $ pkg install git
 $ pkg install figlet
-$ git clone https://github.com/RaphSoft/lain-lain.git
+$ git clone https://github.com/MRV1RU55PM/lain-lain.git
 $ ls
 $ cd lain-lain
-$ python2 mbledos.py
+$ python2 mvsdos.py
 
 Next enter your IP target, port, and bytes/packet later press enter
 
@@ -26,8 +26,8 @@ Masukan bytes is input for sent the
 
 Report bug to:
 
-FB: Om Telolet Om
-IG: yogadwiayudianto_34
+Yt: MR VIRUS SPM
+IG: mvs.x_x
 
 
 
@@ -47,11 +47,11 @@ $ pkg install python2
 $ pkg install figlet
 $ pkg install git
 
-$ git clone https://github.com/RaphSoft/lain-lain.git
+$ git clone https://github.com/MRV1RU55PM/lain-lain.git
 $ ls
 $ cd lain-lain
 $ ls
-$ python2 mbledos.py
+$ python2 mvsdos.py
 
 Terus kalian masukkan ip, port,
  paket/bytes lalu tekan enter
@@ -62,8 +62,8 @@ Masukan bytes adalah tempat untuk mengirim besarnya paket
 
 Laporkan bug ke:
 
-FB: Om Telolet Om
-IG: yogadwiayudianto_34
+Yt: MR VIRUS SPM
+IG: mvs.x_x
 
 
 
